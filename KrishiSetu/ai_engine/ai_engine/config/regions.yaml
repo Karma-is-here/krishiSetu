@@ -1,0 +1,7 @@
+# Region configuration for AI engine
+regions:
+  - id: IN-DEL
+    name: Delhi NCR
+    tiles:
+      - lat: 28.6
+        lon: 77.2

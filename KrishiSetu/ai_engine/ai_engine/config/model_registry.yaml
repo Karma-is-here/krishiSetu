@@ -1,0 +1,5 @@
+# Registry of available models
+models:
+  - id: fusion_v1
+    path: models/model_weights/fusion_v1.pkl
+    description: Baseline fusion model v1
